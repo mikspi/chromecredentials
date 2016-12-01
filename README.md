@@ -8,6 +8,7 @@ This python application prints a table containing all chrome creadentials from y
 |----------|:-------------:|----------:|
 | facebook |   username    |  password |
 |   gmail  |   username    |  password |
+|   .....  |    ......     |   ......  |
 
 ## Have a go
 
