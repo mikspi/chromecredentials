@@ -17,8 +17,8 @@ This python application prints a table containing all chrome creadentials from y
 
 ### Clone the project
 
-	`git clone git clone https://github.com/mikspi/chromecredentials chromecredentials  && cd chromecredentials chromecredentials && cd chromecredentials`
+	git clone git clone https://github.com/mikspi/chromecredentials chromecredentials  && cd chromecredentials chromecredentials && cd chromecredentials
 
 ### Run the application
 
-	`make`
+	make
