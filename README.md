@@ -2,7 +2,7 @@
 
 ## Description
 
-This python application prints a table containing all the chrome creadentials from your OSX or Linux machine.
+This python application prints a table containing all chrome creadentials from your OSX or Linux machine.
 
 | website  |    username   |  password |
 |----------|:-------------:|----------:|
@@ -13,11 +13,11 @@ This python application prints a table containing all the chrome creadentials fr
 
 ### Close Chrome
 
-![alt tag](http://url/to/img.png)
+![alt tag](https://github.com/mikspi/chromecredentials/blob/master/resources/closeChrome.png?raw=true)
 
 ### Clone the project
 
-`git clone url chromecredentials && cd chromecredentials`
+`git clone git clone https://github.com/mikspi/chromecredentials chromecredentials  && cd chromecredentials chromecredentials && cd chromecredentials`
 
 ### Run the script
 
